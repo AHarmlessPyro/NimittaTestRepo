@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6370ec231e9209fed18c3bfdb0d7d796",
+    "revision": "c08c06093ab10a4eaba5d6505414f715",
     "url": "/NimittaTestRepo/index.html"
   },
   {
-    "revision": "ec11074d957a8f7c807a",
+    "revision": "e42514522ac897365ef4",
     "url": "/NimittaTestRepo/static/css/main.a563fbf1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/NimittaTestRepo/static/js/2.2b5f391b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ec11074d957a8f7c807a",
-    "url": "/NimittaTestRepo/static/js/main.bdc27487.chunk.js"
+    "revision": "e42514522ac897365ef4",
+    "url": "/NimittaTestRepo/static/js/main.1a4ce7dd.chunk.js"
   },
   {
     "revision": "10e2832b038f9a63b8d5",

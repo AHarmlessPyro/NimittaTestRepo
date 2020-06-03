@@ -7,11 +7,12 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "express": "^4.17.1",
+    "gh-pages": "^3.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
-  "homepage": "http://aharmlesspyro.github.io/NimittaTestRepo",
+  "homepage": "https://aharmlesspyro.github.io/NimittaTestRepo",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
@@ -36,7 +37,5 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "gh-pages": "^3.0.0"
-  }
+  "devDependencies": {}
 }
