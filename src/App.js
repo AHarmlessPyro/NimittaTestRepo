@@ -216,8 +216,11 @@ class App extends Component {
         <div className="page page-1">
           <div className="fullPage fullPage-Panel" id="3" onClick={this.handleClick}>
             <div className="introNimitta">
-              <div className="imageFrame" style={{ marginTop: "5%", top: "0%" }}>
-                <img src="../../img/1.png" style={{ width: "100%", height: "100%", borderRadius: "1rem" }}></img>
+              <div className="imageFrame imageNimitta" >
+                <img src={`NimittaTestRepo/${IMG_ROOT}./1.png`} style={{ width: "100%", height: "100%", borderRadius: "1rem" }}></img>
+              </div>
+              <div className="descNimitta">
+
               </div>
             </div>
 

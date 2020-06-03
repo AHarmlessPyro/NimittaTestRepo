@@ -24,6 +24,10 @@
   }
 }
 
+.introNimitta {
+  height: 100%;
+}
+
 .buttonSelectedColor {
   fill: lightblue;
 }
@@ -32,12 +36,18 @@
   fill: grey;
 }
 
-circle:active {
-  fill: lightblue;
-}
-
 circle:hover {
   fill: red;
+}
+
+.imageNimitta {
+  grid-area: imageNimitta;
+  width: 33.34vw;
+  height: 33.34vw;
+}
+
+.descNimitta {
+  grid-area: descNimitta;
 }
 
 @media (orientation: landscape) {
@@ -50,6 +60,12 @@ circle:hover {
     grid-template-areas: "panel-1 panel-2";
     opacity: 1.0;
   }
+  .introNimitta {
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: "imageNimitta" "descNimitta";
+  }
 }
 
 @media (orientation: portrait) {
@@ -61,6 +77,12 @@ circle:hover {
   }
   .fullPage-Slide {
     transition: transform 1s ease-out;
+  }
+  .introNimitta {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr;
+    grid-template-areas: "imageNimitta descNimitta";
   }
 }
 
@@ -84,24 +106,18 @@ circle:hover {
   background-color: purple;
 }
 
-.panel-1 {
-  opacity: 1.0;
-}
-
-.panel-2 {
-  opacity: 1.0;
-}
-
 .fullPage {
   height: 100vh;
 }
 
 .panel-1 {
+  opacity: 1.0;
   grid-area: panel-1;
   background-color: white;
 }
 
 .panel-2 {
+  opacity: 1.0;
   grid-area: panel-2;
   background-color: black;
 }
