@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/NimittaTestRepo/static/css/main.a563fbf1.chunk.css",
-    "main.js": "/NimittaTestRepo/static/js/main.bdc27487.chunk.js",
-    "main.js.map": "/NimittaTestRepo/static/js/main.bdc27487.chunk.js.map",
+    "main.js": "/NimittaTestRepo/static/js/main.1a4ce7dd.chunk.js",
+    "main.js.map": "/NimittaTestRepo/static/js/main.1a4ce7dd.chunk.js.map",
     "runtime-main.js": "/NimittaTestRepo/static/js/runtime-main.387aac8b.js",
     "runtime-main.js.map": "/NimittaTestRepo/static/js/runtime-main.387aac8b.js.map",
     "static/js/2.2b5f391b.chunk.js": "/NimittaTestRepo/static/js/2.2b5f391b.chunk.js",
     "static/js/2.2b5f391b.chunk.js.map": "/NimittaTestRepo/static/js/2.2b5f391b.chunk.js.map",
     "index.html": "/NimittaTestRepo/index.html",
-    "precache-manifest.5ffdaca266fd2f70cd4711eba0cb4c16.js": "/NimittaTestRepo/precache-manifest.5ffdaca266fd2f70cd4711eba0cb4c16.js",
+    "precache-manifest.ac75abe9f4297f85687598e34a24b9ee.js": "/NimittaTestRepo/precache-manifest.ac75abe9f4297f85687598e34a24b9ee.js",
     "service-worker.js": "/NimittaTestRepo/service-worker.js",
     "static/css/main.a563fbf1.chunk.css.map": "/NimittaTestRepo/static/css/main.a563fbf1.chunk.css.map",
     "static/js/2.2b5f391b.chunk.js.LICENSE.txt": "/NimittaTestRepo/static/js/2.2b5f391b.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.387aac8b.js",
     "static/js/2.2b5f391b.chunk.js",
     "static/css/main.a563fbf1.chunk.css",
-    "static/js/main.bdc27487.chunk.js"
+    "static/js/main.1a4ce7dd.chunk.js"
   ]
 }

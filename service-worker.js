@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/NimittaTestRepo/precache-manifest.5ffdaca266fd2f70cd4711eba0cb4c16.js"
+  "/NimittaTestRepo/precache-manifest.ac75abe9f4297f85687598e34a24b9ee.js"
 );
 
 self.addEventListener('message', (event) => {
